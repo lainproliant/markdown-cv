@@ -18,7 +18,7 @@ Full-stack software development and operational support for the Amazon Connect c
 Developed highly customized JavaPOS solutions and back-end processing workflows for brick-and-mortar stores' check-out needs.  Helped architect solutions to assist in back-office API integration, deployment, and customization.
 
 ### 2009 - 2010
-***PCMS Datafit -- Software Development Intern -- Cincinnati, OH***
+***ITI TranscenData -- Software Development Intern -- Cincinnati, OH***
 
 Provided support and implementation for the CADIQ product and underlying CAD translation librarires.  Tested across a wide variety of platforms including Windows, Solaris, AIX, and HP-UX.
 
