@@ -39,10 +39,12 @@ See my portfolio [here](https://github.com/lainproliant).
 - Software development is my hobby and my passion.
 
 ## Education
-### University of Cincinnati, College of Engineering and Applied Science
-Bachelor of Information Technology, Software Development
+### University of Cincinnati
+Cincinnati, OH -- 2011
 
-2011
+College of Engineering and Applied Science
+
+Bachelor of Information Technology, Software Development
 
 <!-- ### Footer
 
