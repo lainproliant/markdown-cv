@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Resume - Lain Supe
+title: Lain Supe
 ---
 # Lain Supe
 Software Development Engineer
