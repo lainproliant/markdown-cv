@@ -1,13 +1,27 @@
 ---
 layout: cv
-title: Lain Supe
+title: Lain Musgrove
 ---
-# Lain Supe
+# Lain Musgrove
 Software Development Engineer
 [lain.proliant@gmail.com](mailto://lain.proliant@gmail.com)
 
 ## Experience
-### 2013 - Present
+### 2020 - Present
+***Indeed.com -- Software Engineer -- Seattle, WA***
+
+Full-stack Python, Typescript, and React.js development for the Social Impact
+team, building experimental products to help jobseekers with barriers find
+employment opportunities.
+
+### 2018 - 2020
+***Shoobx, Inc -- Software Development Engineer -- Boston, MA***
+
+Full-stack Python and Angular development for the Shoobx legal automation
+product.  Developed interfaces for the automation of legal workflows required
+by startups to make getting off the ground easier.
+
+### 2013 - 2018
 ***Amazon Web Services -- Software Development Engineer -- Seattle, WA***
 
 Full-stack software development and operational support for the Amazon Connect contact center SaaS product.  Engineered front-end APIs for audio transmission, call control, and CTI integration.  Built and maintained back-end SOA systems to support contact routing, call control, audio transmission, and recording.  Worked with retail customer service teams at Amazon to customize our system to meet their needs.
@@ -24,10 +38,10 @@ Provided support and implementation for the CADIQ product and underlying CAD tra
 
 ## Skills
 ### Languages
-Python 2/3, Java, C/C++, C#, Perl, PHP, JavaScript ES6, CSS, SQL
+Python 3, Java, C/C++, C#, Perl, PHP, JavaScript ES6, CSS, SQL
 
-### Standards and Toolkits
-Vue, Angular, Qt 4/5, Glib/GTK, SDL/OpenGL, POSIX C, C++17, Win32, Android
+### Toolkits and Environments
+React, Vue, Angular, Qt 4/5, Glib/GTK, SDL/OpenGL, POSIX C, C++20, Windows, Linux
 
 ### Portfolio
 *See my portfolio [here](https://github.com/lainproliant).*
